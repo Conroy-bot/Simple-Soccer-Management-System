@@ -1,0 +1,12 @@
+-----------Player Information-----------
+Lionel Messi, 34, Forward
+Christiano Ronaldo, 36, Forward
+Neymar Jr, 29, Forward
+Kevin De Bruyne, 30, Midfielder
+Virgil van Dijk, 30, Defender
+Mohamed Salah, 28, Forward
+Robert Lewandowski, 32, Forward
+Sadio Mané, 29, Forward
+Harry Kane, 27, Forward
+Kylian Mbappé, 22, Forward
+Jamie Fox, 35, 
